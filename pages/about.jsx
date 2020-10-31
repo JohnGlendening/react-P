@@ -17,14 +17,8 @@ const App = () => (
       </div>
       <div className="col-md-6 aboutSections">
         <h4 className="bio bio1">
-          Full-Stack fanatic who converts coffee into code.
-          My previous career as a Filter Technician at Ballast
-          Point Brewing Company revealed my passion for mechanical processes,
-          problem solving, and creating quality products through collaborative teamwork.
-          I specialize in HTML, CSS, JavaScript, and React on the front-end as well as Node
-          and MySQL/Mongo on the back-end to create beautiful and secure applications.
-          My biggest priority is developing clear, high-quality code while cultivating
-          a fun and encouraging workplace culture.
+        I am from Hays, Kansas. I attended the University of Kansas for my undergraduate degree. I obtained my MBA in 2011 from the University of Kansas. In that time, I began to study financial modeling and analytics. This is where my love of technology and software began to grow. After I departed from the University of Kansas, I moved to Washington D.C., to begin my career. I started as a lowly audit liaison at the Pentagon, but quickly advanced to building my own little analytics empire. This was very enjoyable, and I found the work very satisfying, as well.
+I moved back to Hays, Kansas in March of 2016. I made the move for a number of reasons. Most important being that I had a son baking in his mother's stomach and I planned on being present for everything. Currently, I am working for an oil services company called Hess Services. In my spare time I enjoy spending time with my family and friends, gofing, skiing, doing crossword puzzles, and traveling.
         </h4>
       </div>
     </div>

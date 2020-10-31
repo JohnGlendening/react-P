@@ -9,37 +9,20 @@ const Home = () => (
   <div>
     <Navbar />
     <Jumbotron phrase="From Front to Back." subtitle="A list of full stack, front end, and back end projects I worked on" />
-    <h3>Full Stack Applications</h3>
+    <h3>Applications</h3>
     <hr />
     <div className="row">
       <div className="col-md-6">
-        <Picture source="../static/pics/sdbeer.png" alt="sdbeer" deployed="https://www.sdbeer.com/" />
+        <Picture source="../static/pics/Agreed.JPG" alt="Agreed" deployed="https://johnglendening.github.io/Agreed/" />
       </div>
       <div className="col-md-6">
-        <Picture source="../static/pics/jobApp.png" alt="whistlr" deployed="https://jobothehunt.herokuapp.com/" />
-      </div>
-    </div>
-    <h3 className="frontend">Front End Websites</h3>
-    <hr />
-    <div className="row">
-      <div className="col-md-6">
-        <Picture source="../static/pics/reactPortfolio.png" alt="portfolio" github="https://github.com/davidlatuno/react-portfolio" deployed="https://davidlatuno-portfolio.herokuapp.com/" />
+        <Picture source="../static/pics/Emotive.JPG" alt="Emotive" deployed="https://petersvirtualservices.github.io/EmotiveProject/" />
       </div>
       <div className="col-md-6">
-        <Picture source="../static/pics/FaceYourself.png" alt="faceyourself" github="https://github.com/davidlatuno/FaceYourselfDL" deployed="https://davidlatuno.github.io/FaceYourselfDL//" />
+        <Picture source="../static/pics/EMSystem.JPG" alt="EMSystem" deployed="https://johnglendening.github.io/Employee-Tracker/" />
       </div>
-    </div>
-    <h3 className="backend">CLI Applications</h3>
-    <hr />
-    <div className="row">
-      <div className="col-md-4">
-        <Picture source="../static/pics/bash.png" alt="liri" github="https://github.com/davidlatuno/bash" />
-      </div>
-      <div className="col-md-4">
-        <Picture source="../static/pics/csharp-copy.png" alt="hangman" github="https://github.com/davidlatuno/c-sharp-trilogy-script" />
-      </div>
-      <div className="col-md-4">
-        <Picture source="../static/pics/csharp-delete.png" alt="hangman" github="https://github.com/davidlatuno/c-sharp-trilogy-script2" />
+      <div className="col-md-6">
+        <Picture source="../static/pics/noteTaker.JPG" alt="Note Taker" deployed="https://note-taker-01.herokuapp.com/" />
       </div>
     </div>
     <Footer />
